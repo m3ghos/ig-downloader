@@ -1,0 +1,17 @@
+
+header{
+    background-color: rgb(30, 30, 29);
+    border: #e24637f8 3px solid;
+    border-radius: 1px;
+}
+
+header h1{
+    color: #e24637f8;
+}
+#vid , #src{
+    display: none;
+}
+#p{
+    color: #e24637f8;
+    display: none;
+}
